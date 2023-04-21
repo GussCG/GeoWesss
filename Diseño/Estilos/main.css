@@ -1,0 +1,74 @@
+@import url('https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@600;800&display=swap');
+
+#GeoWess{
+	position: absolute;
+	width: 210px;
+	height: 70px;
+	left: 49px;
+	top: 32px;
+
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-style: normal;
+	font-weight: 800;
+	font-size: 48px;
+	line-height: 70px;
+
+	color: #000000;
+}
+
+#Inicio{
+	position: absolute;
+	width: 63px;
+	height: 35px;
+	left: 520px;
+	top: 54px;
+
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 35px;
+}
+
+#Proyectos{
+	position: absolute;
+	width: 114px;
+	height: 35px;
+	left: 653px;
+	top: 54px;
+
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 35px;
+}
+
+#Nosotros{
+	position: absolute;
+	width: 102px;
+	height: 35px;
+	left: 818px;
+	top: 54px;
+
+	font-family: 'Be Vietnam Pro', sans-serif;
+	font-style: normal;
+	font-weight: 600;
+	font-size: 24px;
+	line-height: 35px;
+}
+
+nav li a{
+	text-decoration: none;
+	color: #000000;
+}
+
+li{
+	display: inline;
+}
+
+body{
+	height: 100vh;
+	width: 100%;
+	background: linear-gradient(127.28deg, #EEAECA 4.06%, #FFF9C5 37.82%, #B1A3E7 58.79%, #94BBE9 78.67%);
+}
